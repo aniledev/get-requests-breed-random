@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Roboto", sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+}
+
+.margin {
+  margin-bottom: 50px;
+}
+
+.hidden {
+  display: none;
+}
